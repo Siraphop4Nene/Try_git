@@ -1,1 +1,2 @@
-print("Hello Tu")
+print("Hello Pink")
+print("Hello porm")
